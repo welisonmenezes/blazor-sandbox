@@ -49,3 +49,5 @@ C:\Users\welis\Desktop\BlazorSandbox\BlazorSandbox\obj\Debug\netcoreapp3.1\Blazo
 C:\Users\welis\Desktop\BlazorSandbox\BlazorSandbox\obj\Debug\netcoreapp3.1\BlazorSandbox.pdb
 C:\Users\welis\Desktop\BlazorSandbox\BlazorSandbox\obj\Debug\netcoreapp3.1\BlazorSandbox.csproj.CopyComplete
 C:\Users\welis\Desktop\BlazorSandbox\BlazorSandbox\obj\Debug\netcoreapp3.1\BlazorSandbox.csprojAssemblyReference.cache
+C:\Users\welis\Desktop\BlazorSandbox\BlazorSandbox\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\MaskedInput.razor.g.cs
+C:\Users\welis\Desktop\BlazorSandbox\BlazorSandbox\obj\Debug\netcoreapp3.1\Razor\Components\MaskedInput.razor.g.cs

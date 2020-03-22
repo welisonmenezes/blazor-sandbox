@@ -8,4 +8,7 @@ public class ExampleModel
 
     [Required]
     public string Birthdate { get; set; }
+
+    [Required]
+    public string Number { get; set; }
 }

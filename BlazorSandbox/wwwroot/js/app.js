@@ -23,3 +23,12 @@
         });
     }
 }
+
+
+RunMaskedInput = function (MaskedInputContainer) {
+    var masked = $(MaskedInputContainer).find('.masked');
+    if (masked) {
+        var patt = masked.attr('data-pattern');
+        masked.mask(patt);
+    }
+}
