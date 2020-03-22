@@ -26,7 +26,7 @@
 
 
 RunMaskedInput = function (MaskedInputContainer) {
-    var masked = $(MaskedInputContainer).find('.masked');
+    var masked = $(MaskedInputContainer).find('.maskedinput');
     if (masked) {
         var patt = masked.attr('data-pattern');
         masked.mask(patt);
