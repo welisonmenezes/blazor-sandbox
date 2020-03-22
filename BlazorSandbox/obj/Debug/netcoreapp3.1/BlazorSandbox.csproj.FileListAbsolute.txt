@@ -48,3 +48,4 @@ C:\Users\welis\Desktop\BlazorSandbox\BlazorSandbox\obj\Debug\netcoreapp3.1\Blazo
 C:\Users\welis\Desktop\BlazorSandbox\BlazorSandbox\obj\Debug\netcoreapp3.1\BlazorSandbox.dll
 C:\Users\welis\Desktop\BlazorSandbox\BlazorSandbox\obj\Debug\netcoreapp3.1\BlazorSandbox.pdb
 C:\Users\welis\Desktop\BlazorSandbox\BlazorSandbox\obj\Debug\netcoreapp3.1\BlazorSandbox.csproj.CopyComplete
+C:\Users\welis\Desktop\BlazorSandbox\BlazorSandbox\obj\Debug\netcoreapp3.1\BlazorSandbox.csprojAssemblyReference.cache

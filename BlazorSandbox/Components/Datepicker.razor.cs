@@ -6,6 +6,8 @@ namespace BlazorSandbox.Components
 {
     public class DatepickerBase: ComponentBase
     {
+        public ElementReference DatepickerContainer;
+
         [Inject] protected IJSRuntime JSInterop { get; set; }
 
         [Parameter]
@@ -15,7 +17,8 @@ namespace BlazorSandbox.Components
         {
             if (firstRender)
             {
-                await JSInterop.InvokeAsync<string>("RunPickdate");
+                //await JSInterop.InvokeAsync<string>("console.log", DatepickerContainer);
+                await JSInterop.InvokeAsync<string>("RunPickdate", DatepickerContainer);
             }
         }
     }
